@@ -85,7 +85,7 @@ Third-party games, artwork, and other assets remain subject to their respective 
 
 ## Credits
 
-Created by **(m0rph1n3)/(0tt3r)/(Shah Zayd Abdullah)**.
+Created by **(m0rph1n3)/(0tt3r) -- All aliases for the same person [Shah Zayd Abdullah]**.
 
 Games, artwork, and other third-party content belong to their respective owners. Inclusion in this project does not transfer ownership or grant redistribution rights.
 
