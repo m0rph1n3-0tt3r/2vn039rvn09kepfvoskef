@@ -69,7 +69,7 @@ Then visit `http://localhost:8000`.
 
 ## Connect
 
-Follow the project’s creator, explore more work, or say hello.
+Follow me, explore my other work, or say hello :).
 
 | Platform | Handle | Profile |
 | :--- | :--- | :--- |
@@ -85,7 +85,7 @@ Third-party games, artwork, and other assets remain subject to their respective 
 
 ## Credits
 
-Created by **m0rph1n3**.
+Created by **(m0rph1n3)/(0tt3r)/(Shah Zayd Abdullah)**.
 
 Games, artwork, and other third-party content belong to their respective owners. Inclusion in this project does not transfer ownership or grant redistribution rights.
 
